@@ -1,0 +1,11 @@
+C:\Users\rumey\Masaüstü\RootFolder\QuadraticSolver\bin\Debug\net8.0\QuadraticSolver.deps.json
+C:\Users\rumey\Masaüstü\RootFolder\QuadraticSolver\bin\Debug\net8.0\QuadraticSolver.dll
+C:\Users\rumey\Masaüstü\RootFolder\QuadraticSolver\bin\Debug\net8.0\QuadraticSolver.pdb
+C:\Users\rumey\Masaüstü\RootFolder\QuadraticSolver\obj\Debug\net8.0\QuadraticSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumey\Masaüstü\RootFolder\QuadraticSolver\obj\Debug\net8.0\QuadraticSolver.AssemblyInfoInputs.cache
+C:\Users\rumey\Masaüstü\RootFolder\QuadraticSolver\obj\Debug\net8.0\QuadraticSolver.AssemblyInfo.cs
+C:\Users\rumey\Masaüstü\RootFolder\QuadraticSolver\obj\Debug\net8.0\QuadraticSolver.csproj.CoreCompileInputs.cache
+C:\Users\rumey\Masaüstü\RootFolder\QuadraticSolver\obj\Debug\net8.0\QuadraticSolver.dll
+C:\Users\rumey\Masaüstü\RootFolder\QuadraticSolver\obj\Debug\net8.0\refint\QuadraticSolver.dll
+C:\Users\rumey\Masaüstü\RootFolder\QuadraticSolver\obj\Debug\net8.0\QuadraticSolver.pdb
+C:\Users\rumey\Masaüstü\RootFolder\QuadraticSolver\obj\Debug\net8.0\ref\QuadraticSolver.dll
